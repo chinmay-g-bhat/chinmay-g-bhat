@@ -67,6 +67,10 @@ Dayananda Sagar University, Bengaluru
 ### Water Level Detector
 - Designed a Verilog HDL-based water level detection system with simulation and verification.
 
+### Full-Wave Bridge Rectifier Battery Charger using LTspice & NGSpice
+- Designed and simulated a full-wave bridge rectifier battery charger using LTspice and NGSpice.
+- Implemented Zener diode-based voltage regulation and analyzed circuit performance through simulation.
+  
 ### DC-DC Buck Converter
 - Designed and simulated a DC-DC Buck Converter using LTspice for voltage regulation analysis.
 
